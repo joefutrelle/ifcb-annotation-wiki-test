@@ -1,3 +1,4 @@
+Diatoms
 <table>
   <tr>
     <td><a href="Asterionellopsis.md"><sub>Asterionellopsis</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_229_100026_07452.png" width="100px"/></td>
@@ -69,26 +70,34 @@
     <td><a href="Thalassionema.md"><sub>Thalassionema</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_022_133752_03029.png" width="100px"/></td>
     <td><a href="Thalassiosira.md"><sub>Thalassiosira</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2010_031_230500_01769.png" width="100px"/></td>
     <td><a href="Thalassiosira-dirty.md"><sub>Thalassiosira_dirty</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2015_025_022802_01216.png" width="100px"/></td>
-    <td><a href="amoeba.md"><sub>amoeba</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2013_302_163814_00313.png" width="100px"/></td>
-  </tr>
+</table>
+
+Flagellates
+<table>
   <tr>
+    <td><a href="amoeba.md"><sub>amoeba</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2013_302_163814_00313.png" width="100px"/></td>
     <td><a href="Chrysochromulina.md"><sub>Chrysochromulina</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2007_183_000344_00525.png" width="100px"/></td>
     <td><a href="clusterflagellate.md"><sub>clusterflagellate</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2009_315_174508_02007.png" width="100px"/></td>
     <td><a href="Dictyocha.md"><sub>Dictyocha</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2011_322_030145_02749.png" width="100px"/></td>
-    <td><a href="Dinobryon.md"><sub>Dinobryon</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_039_201905_00513.png" width="100px"/></td>
   </tr>
   <tr>
+    <td><a href="Dinobryon.md"><sub>Dinobryon</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_039_201905_00513.png" width="100px"/></td>
     <td><a href="Euglena.md"><sub>Euglena</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2010_015_190256_01032.png" width="100px"/></td>
     <td><a href="flagellate-sp3.md"><sub>flagellate_sp3</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2014_176_155350_02778.png" width="100px"/></td>
     <td><a href="Chrysochromulina lanceolata.md"><sub>Chrysochromulina lanceolata</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2011_255_203841_00859.png" width="100px"/></td>
-    <td><a href="Parvicorbicula-socialis.md"><sub>Parvicorbicula_socialis</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2011_024_092305_03653.png" width="100px"/></td>
   </tr>
   <tr>
+    <td><a href="Parvicorbicula-socialis.md"><sub>Parvicorbicula_socialis</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2011_024_092305_03653.png" width="100px"/></td>
     <td><a href="Phaeocystis.md"><sub>Phaeocystis</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_046_143336_01037.png" width="100px"/></td>
     <td><a href="Pseudochattonella-farcimen.md"><sub>Pseudochattonella_farcimen</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2013_057_133610_00093.png" width="100px"/></td>
     <td><a href="Pyramimonas-longicauda.md"><sub>Pyramimonas_longicauda</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2010_240_184725_00680.png" width="100px"/></td>
-    <td><a href="Vicicitus-globosus.md"><sub>Vicicitus_globosus</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2012_282_200950_00403.png" width="100px"/></td>
   </tr>
+  <tr>
+    <td><a href="Vicicitus-globosus.md"><sub>Vicicitus_globosus</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2012_282_200950_00403.png" width="100px"/></td>
+</table>
+
+Dinoflagellates
+<table>
   <tr>
     <td><a href="Akashiwo.md"><sub>Akashiwo</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2012_276_032830_01361.png" width="100px"/></td>
     <td><a href="Amphidinium-sp.md"><sub>Amphidinium_sp</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_066_183442_00819.png" width="100px"/></td>
@@ -110,46 +119,55 @@
   <tr>
     <td><a href="Proterythropsis-sp.md"><sub>Proterythropsis_sp</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2009_067_004943_00019.png" width="100px"/></td>
     <td><a href="Protoperidinium.md"><sub>Protoperidinium</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2008_073_152345_01423.png" width="100px"/></td>
+</table>
+
+Ciliates
+<table>
+  <tr>
     <td><a href="Ciliate-mix.md"><sub>Ciliate_mix</sub></a></td>
     <td><a href="Didinium-sp.md"><sub>Didinium_sp</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2006_272_000827_00359.png" width="100px"/></td>
-  </tr>
-  <tr>
     <td><a href="Euplotes-sp.md"><sub>Euplotes_sp</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2011_024_094617_01475.png" width="100px"/></td>
     <td><a href="Laboea-strobila.md"><sub>Laboea_strobila</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2009_133_183845_00002.png" width="100px"/></td>
+  </tr>
+  <tr>
     <td><a href="Leegaardiella-ovalis.md"><sub>Leegaardiella_ovalis</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2007_361_022456_02543.png" width="100px"/></td>
     <td><a href="Mesodinium-sp.md"><sub>Mesodinium_sp</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2009_067_004943_02443.png" width="100px"/></td>
-  </tr>
-  <tr>
     <td><a href="Pleuronema-sp.md"><sub>Pleuronema_sp</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2006_295_011304_00468.png" width="100px"/></td>
     <td><a href="Strobilidium-morphotype1.md"><sub>Strobilidium_morphotype1</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2006_361_023527_01516.png" width="100px"/></td>
+  </tr>
+  <tr>
     <td><a href="Strombidium-capitatum.md"><sub>Strombidium_capitatum</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2007_129_002550_00101.png" width="100px"/></td>
     <td><a href="Strombidium-conicum.md"><sub>Strombidium_conicum</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2006_272_000827_02872.png" width="100px"/></td>
-  </tr>
-  <tr>
     <td><a href="Strombidium-inclinatum.md"><sub>Strombidium_inclinatum</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2007_183_013042_01843.png" width="100px"/></td>
     <td><a href="Strombidium-morphotype1.md"><sub>Strombidium_morphotype1</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2008_006_023502_00843.png" width="100px"/></td>
+  </tr>
+  <tr>
     <td><a href="Strombidium-morphotype2.md"><sub>Strombidium_morphotype2</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2007_089_021451_02484.png" width="100px"/></td>
     <td><a href="Strombidium-oculatum.md"><sub>Strombidium_oculatum</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2008_319_024932_03187.png" width="100px"/></td>
-  </tr>
-  <tr>
     <td><a href="Strombidium-wulffi.md"><sub>Strombidium_wulffi</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2008_200_001337_01125.png" width="100px"/></td>
     <td><a href="Tiarina-fusus.md"><sub>Tiarina_fusus</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2008_319_005351_00205.png" width="100px"/></td>
-    <td><a href="Tintinnid.md"><sub>Tintinnid</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_044_094726_02503.png" width="100px"/></td>
-    <td><a href="Tontonia-appendiculariformis.md"><sub>Tontonia_appendiculariformis</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2011_240_171508_04987.png" width="100px"/></td>
   </tr>
   <tr>
+    <td><a href="Tintinnid.md"><sub>Tintinnid</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2012_044_094726_02503.png" width="100px"/></td>
+    <td><a href="Tontonia-appendiculariformis.md"><sub>Tontonia_appendiculariformis</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2011_240_171508_04987.png" width="100px"/></td>
     <td><a href="Tontonia-gracillima.md"><sub>Tontonia_gracillima</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2009_135_182511_02294.png" width="100px"/></td>
+</table>
+
+Miscellaneous
+<table>
+  <tr>
     <td><a href="bad.md"><sub>bad</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2010_208_231035_00141.png" width="100px"/></td>
     <td><a href="bead.md"><sub>bead</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2014_057_190635_05674.png" width="100px"/></td>
     <td><a href="bubble.md"><sub>bubble</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2008_123_165550_00004.png" width="100px"/></td>
+    <td><a href="detritus.md"><sub>detritus</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2006_361_000315_00003.png" width="100px"/></td>
   </tr>
   <tr>
-    <td><a href="detritus.md"><sub>detritus</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2006_361_000315_00003.png" width="100px"/></td>
     <td><a href="mix.md"><sub>mix</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2015_253_180439_02711.png" width="100px"/></td>
     <td><a href="other-interaction.md"><sub>other_interaction</sub></a></td>
     <td><a href="pollen.md"><sub>pollen</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB1_2009_122_221343_00065.png" width="100px"/></td>
+    <td><a href="spore.md"><sub>spore</sub></a></td>
   </tr>
   <tr>
-    <td><a href="spore.md"><sub>spore</sub></a></td>
     <td><a href="zooplankton.md"><sub>zooplankton</sub></a><br><img src="https://ifcb-data.whoi.edu/mvco/IFCB5_2011_208_191537_01078.png" width="100px"/></td>
 </table>
+
