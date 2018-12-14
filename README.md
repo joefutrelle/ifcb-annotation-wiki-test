@@ -1,2 +1,3 @@
 # ifcb-annotation-wiki-test
-asdfasdf
+
+[Go to wiki](https://github.com/joefutrelle/ifcb-annotation-wiki-test/wiki)
